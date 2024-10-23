@@ -1,7 +1,7 @@
-![I am GitHub Readme Generator's creator](https://mizanur.io/wp-content/uploads/2024/10/Mizanur-Cover.jpg)
+![I am GitHub Readme Generator's creator](https://mizanur.io/wp-content/uploads/2024/10/Mizanur-Cover-1.jpg)
 
 ### Hi there 👋, my name is Mizanur Rahman
-#### Data Scientist Enthusiast | Machine Learning Engineer | High Ticket Closer | Technical Writer
+#### Data Science Enthusiast | Machine Learning Engineer | High Ticket Closer | Technical Writer
 
 
 I am a passionate student of Information Technology at Torrens University Australia, with a keen focus on Data Science, Machine Learning, and Cloud Computing. My journey has led me to develop expertise in data analysis, high-ticket sales closing, and public speaking, allowing me to blend technical knowledge with strong communication and sales skills.
