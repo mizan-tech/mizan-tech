@@ -11,17 +11,8 @@ Currently, I am deepening my knowledge through the Data Science for Beginners co
 With aspirations to become an Entrepreneur and an industry expert in the Data Science field, I aim to leverage my unique combination of technical expertise and sales acumen to drive innovation and impact in the tech world.
  
 
-- 🔭 I’m currently working on hjfguyhdfhyfdy 
-- 🌱 I’m currently learning ghxgcxcgh 
-- 👯 I’m looking to collaborate on hgxfxcfghxf 
-- 🤔 I’m looking for help with fgcxhfxxfcxfh 
-- 💬 Ask me about hgfxhfhf 
-- 📫 How to reach me: hfgxhfghfxd 
-- 😄 Pronouns: hfghfgchdfh 
-- ⚡ Fun fact: gfjhddfjhdfhfghfd 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mizan-tech)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mizanur-rahman-895977253//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mizan2025)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Instagram.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Twitter.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/YouTube.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mizanur.io/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mizan-tech)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mizanur-rahman-895977253//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mizan2025)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Instagram.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://x.com/mizanofficex)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/YouTube.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mizanur.io/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mizan-tech)](https://github.com/ryo-ma/github-profile-trophy)
 
